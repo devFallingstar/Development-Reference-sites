@@ -13,7 +13,7 @@
 
 [SQLite를 이용한 로컬 데이터베이스](http://hatti.tistory.com/entry/안드로이드-SQLite를-이용한-database-생성)
 
-## Programmatic Lyaout
+## Programmatic Layout
 
 [Fragment의 개념 및 사용 예제](http://kkangeva.tistory.com/m/48)
 
